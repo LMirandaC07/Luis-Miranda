@@ -104,7 +104,7 @@
 
 # 📌 Objetivos
 
-✅ Conseguir minha primeira oportunidade na área de tecnologia  
+✅ Conseguir uma otima oportunidade na área de tecnologia  
 ✅ Evoluir como desenvolvedor Back-end Java  
 ✅ Construir projetos Full Stack escaláveis  
 ✅ Trabalhar com desenvolvimento de software em alto nível  
